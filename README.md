@@ -3,6 +3,7 @@
 <img src="https://image.freepik.com/free-vector/school-books-stack-with-pens-pencils-glass-flat-cartoon-illustration-isolated-white_101884-474.jpg" alt="to-do" width="300" height="auto"/>
 Приложение написано на React. Для управлнеия состоянием приложения используется Redux.
 Re-Store использует mock (имитацию) сервера, для работаты с данными, но приложение не привязано к данной реализации.  
+
 <br>
   
 > ### Для запуска приложения выполните следующие действия:
