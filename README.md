@@ -1,4 +1,4 @@
-# <a href="https://github.com/SeniorIgor/To-Do#-to-do"><img src="https://c7.hotpng.com/preview/76/181/177/inkwell-quill-pen-feather-book-thumbnail.jpg" alt="to-do" width="30" height="auto"/></a> Re-Store
+# <a href="https://github.com/SeniorIgor/To-Do#-to-do"><img src="https://st.depositphotos.com/2001403/2890/i/450/depositphotos_28904783-stock-photo-old-vintage-books-on-wooden.jpg" alt="to-do" width="30" height="auto"/></a> Re-Store
 ### Приложение Re-Store - онлайн магазин книг.
 
 Приложение написано на React. Для управлнеия состоянием приложения используется Redux.
